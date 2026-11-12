@@ -1,0 +1,6 @@
+{
+  "name": "LanceRadar",
+  "description": "Plataforma Inteligente de Monitoramento e Análise de Leilões da Receita Federal do Brasil. Encontre oportunidades antes que elas desapareçam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
